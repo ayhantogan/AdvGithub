@@ -22,6 +22,10 @@ public class MyClass {
         System.out.println("techpro");
 
 
+
         //dev branchte degisiklik
+
+    //github degisiklik
+
     }
 }
