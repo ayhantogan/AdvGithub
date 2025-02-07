@@ -12,5 +12,8 @@ public class MyClass {
 
         //techproda degisiklik
         System.out.println("yeni branch");
+
+        //techproda degisiklik-2
+        System.out.println("yeni branch");
     }
 }
